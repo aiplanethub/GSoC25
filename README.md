@@ -1,4 +1,4 @@
-# About Us
+# About Us- AI Planet
 
 At AI Planet, we’ve built a secure and reliable AI platform aimed at empowering everyone, individuals and enterprises alike, to harness the full potential of AI. Our end-to-end GenAI open source frameworks are designed to simplify the development, evaluation and deployment of Gen AI applications, and autonomous agents. 
 
